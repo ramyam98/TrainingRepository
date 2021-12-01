@@ -1,14 +1,13 @@
 ﻿using System;
 
-namespace ConsoleApp1
+namespace ConsoleApp2
 {
     class Program
     {
-        static void main(string[] args)
+        static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Iam Ramya");
-            Console.WriteLine("Iam doing code here");
         }
     }
 }
